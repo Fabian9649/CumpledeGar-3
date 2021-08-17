@@ -16,9 +16,9 @@
       <br>XD
       <img src="https://i.pinimg.com/originals/8d/09/a5/8d09a5d2c2cdf96b47958d7e6bd0fb98.jpg">
       <br>michi truco
-      <img src="https://i.pinimg.com/originals/05/fd/3d/05fd3d40a9e3f61c0eea5d6d17f59101.jpg">
+      <br><img src="https://i.pinimg.com/originals/05/fd/3d/05fd3d40a9e3f61c0eea5d6d17f59101.jpg">
       <br>chim , bueno esta pagina tampoco es ta tan bonita pero signfica mucho uwu
-      <h1><p style="color:orange;" Y puesnadaespero que la pases biem uwu, ira estos videosm xd</p></h1>
+      <h1><p style="color:orange;">Y puesnadaespero que la pases biem uwu, ira estos videosm xd</p></h1>
       <h1> (*/ω＼*)</h1>
       <a href="https://www.instagram.com/p/CSNc2g8DbYq/">
        <br> XDD
