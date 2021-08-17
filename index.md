@@ -2,8 +2,8 @@
 <head> 
 <title> Feliz Cumpleañosss <3 </title> 
   </head>
-  <body bgcolor="PaleVioletRed">
-<h1>color:ola pero ola de saludo , no de mar uwu</h1>
+  <body bgcolor="LightSkyBlue">
+<h1>olam pero olam de saludo , no de mar uwu</h1>
 <h2><p style="color:lavender;">se que esto ,ps no es un regalo que sea asi enorme con muchos detalles , pero es un regalo honesto y con cariño uwu c:</p></h2>
     <h2><p style="color:MediumAquaMarine;">probablemente hoy recibas abrazos y regalos , y como yo no te puedo dar ninguno asi fisico xd ,te hago esta otra ,porque, la verdad es que extrañe jugar contigo y cuando dejamos de jugar era super feo:c</h2>
     <h2>siempre estaban las personas flammers y ya no era lo mismo jugar solo :c</h2>
@@ -27,7 +27,7 @@
  <br> que le pasomxd
       </a>
       <a href="https://www.instagram.com/p/CQ60A_6jv1d/">
-      <br>  juguemosminecraft:c
+      <br>  ponme aguaaaa 🥵
       </a>
       <a href="https://www.instagram.com/p/CSIiyk-l9Hf/">
        <br> yo si le creo
@@ -38,4 +38,4 @@
       <a href="https://www.instagram.com/p/CSIZS9_JWme/">
        <br> la segundamuwu  xd
       </a>
-      
+      <h3>asi antes de irmexd , no habiam colores bomnitos :c xd</h3>
