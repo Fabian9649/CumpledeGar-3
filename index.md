@@ -2,7 +2,7 @@
 <head> 
 <title> Feliz Cumpleañosss <3 </title> 
   </head>
-  <body bgcolor="MediumTurquoise">
+  <body bgcolor="PaleVioletRed">
 <h1>color:ola pero ola de saludo , no de mar uwu</h1>
 <h2><p style="color:lavender;">se que esto ,ps no es un regalo que sea asi enorme con muchos detalles , pero es un regalo honesto y con cariño uwu c:</p></h2>
     <h2><p style="color:MediumAquaMarine;">probablemente hoy recibas abrazos y regalos , y como yo no te puedo dar ninguno asi fisico xd ,te hago esta otra ,porque, la verdad es que extrañe jugar contigo y cuando dejamos de jugar era super feo:c</h2>
@@ -18,5 +18,6 @@
       <br>michi truco
       <img src="https://i.pinimg.com/originals/05/fd/3d/05fd3d40a9e3f61c0eea5d6d17f59101.jpg">
       <br>chim , bueno esta pagina tampoco es ta tan bonita pero signfica mucho uwu
+      
       
       
